@@ -1,0 +1,9 @@
+{
+	"cities": [
+		"Moskva", 
+		"Novosibirsk",
+		"Krasnodar"
+	],
+	"db_name": "weather.db",
+	"refresh_period": "3600"
+}
